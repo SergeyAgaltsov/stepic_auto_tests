@@ -5,7 +5,7 @@ file-read-backwards==2.0.0
 importlib-metadata==0.23
 joblib==0.13.2
 more-itertools==7.2.0
-numpy==1.17.1
+numpy==1.22.0
 packaging==19.1
 pandas==0.25.1
 pluggy==0.13.0
