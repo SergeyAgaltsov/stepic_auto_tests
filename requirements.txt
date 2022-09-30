@@ -3,7 +3,7 @@ attrs==19.1.0
 colorama==0.4.1
 file-read-backwards==2.0.0
 importlib-metadata==0.23
-joblib==0.13.2
+joblib==1.2.0
 more-itertools==7.2.0
 numpy==1.17.1
 packaging==19.1
